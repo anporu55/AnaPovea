@@ -1,5 +1,5 @@
 <img height="150" width="300" alt="banner-github" src="https://ibb.co/VqzWdmW">
-
+  <a href="https://ibb.co/VqzWdmW"><img width="150" align='right' src="https://ibb.co/VqzWdmW"></a>
 ### Hello there 👋
 Hi everyone. My name is Ana and I'm a naval engineer based in Barcelona (Spain). 
 I'm currently learning electonics and PCB Design while working full time. 
