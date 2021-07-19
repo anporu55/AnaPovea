@@ -1,7 +1,4 @@
-<img height="150" width="300" alt="banner-github" src="https://ibb.co/VqzWdmW">
-  <a href="https://ibb.co/VqzWdmW"><img width="150" align='right' src="https://ibb.co/VqzWdmW"></a>
-  <a href="https://ibb.co/VqzWdmW"><img src="https://i.ibb.co/KrfjYwj/Image.png" alt="Image" border="0"></a>
-  
+<a  href="https://ibb.co/jT9FkBx"><img src="https://i.ibb.co/HVLQT1M/Image2.png" alt="Image2" height="400  " width="400"  border="0"></a>  
   
 ### Hello there 👋
 Hi everyone. My name is Ana and I'm a naval engineer based in Barcelona (Spain). 
