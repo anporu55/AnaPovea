@@ -1,4 +1,4 @@
-<img height="150" width="300" alt="banner-github" src="https://miro.medium.com/max/2800/0*C1rkIv3--98XiXT5">
+<img height="150" width="300" alt="banner-github" src="https://ibb.co/VqzWdmW">
 
 ### Hello there 👋
 Hi everyone. My name is Ana and I'm a naval engineer based in Barcelona (Spain). 
