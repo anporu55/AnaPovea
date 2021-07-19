@@ -2,7 +2,7 @@
   
 ### Hello there 👋
 Hi everyone. My name is Ana and I'm a naval engineer based in Barcelona (Spain). 
-I'm currently learning electonics and PCB Design while working full time. 
+I'm currently learning electronics and PCB Design while working full time. 
 
 You can reach me:  
 apovear@gmail.com
