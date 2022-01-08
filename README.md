@@ -1,5 +1,5 @@
   
-### Hello there 👋
+## Hello there 👋
 My name is Ana, from Barcelona (Spain). 
 I love electronics, technology and software. 
 
