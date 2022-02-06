@@ -1,6 +1,7 @@
   
 ## Hello there 👋
 My name is Ana, and I'm based in Barcelona, Spain. 
+
 I love electronics, technology and software. 
 
 <h3 align="left">Technologies I work with:</h3>
